@@ -1,0 +1,34 @@
+<database>
+    <employee_records>
+        <employee>
+            <id>1</id>
+            <name>Ram</name>
+            <salary>20000</salary>
+            <bonus>30000</bonus>
+        </employee>
+        <employee>
+            <id>2</id>
+            <name>Shyam</name>
+            <salary>25000</salary>
+            <bonus>35000</bonus>
+        </employee>
+        <employee>
+            <id>3</id>
+            <name>Ravi</name>
+            <salary>90000</salary>
+            <bonus>100000</bonus>
+        </employee>
+        <employee>
+            <id>4</id>
+            <name>Raj</name>
+            <salary>15000</salary>
+            <bonus>25000</bonus>
+        </employee>
+        <employee>
+            <id>5</id>
+            <name>Tej</name>
+            <salary>45000</salary>
+            <bonus>55000</bonus>
+        </employee>
+    </employee_records>
+</database>
