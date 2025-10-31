@@ -47,7 +47,6 @@ JSON Data for POST /run_flow api
         "target_task_success": "store_data",
         "target_task_failure": "end"
       }
-
     ]
   }
 }
