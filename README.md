@@ -39,7 +39,6 @@ JSON Data for POST /run_flow api
         "target_task_success": "process_data",
         "target_task_failure": "end"
       },
-
       {
         "name": "condition_task2_result",
         "description": "Evaluate the result of task2. If successful, proceed to task3; otherwise, end the flow.",
