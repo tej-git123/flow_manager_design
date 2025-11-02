@@ -7,16 +7,16 @@ How to run:
 2. uvicorn main:app --reload
 3. goto - http://127.0.0.1:8000 - to see the welcome greet message in web browser
 4. goto - http://127.0.0.1:8000/docs - for Swagger UI to try out the working of the APIs
-5. to run the POST /run_flow use the below json data as the input data and try it out
-    a. Click 'POST' Button
-    b. Click 'Try it out' Button
-    c. Use the below json data - copy below json data and paste it into 'Request body' field
-    d. Click Execute Button
-    e. Check the 'Response Body'
-    f. For more details also check the output at the terminal
-    g. Two new files get generated - processed.json and stored-data-base.xml
-       where processed.json is an temporary file and
-       stored-data-base.xml is the XML database file which contains the actual data
+5. to run the POST /run_flow in Swagger UI - use the below json data as the input data and try it out
+   a. Click 'POST' Button
+   b. Click 'Try it out' Button
+   c. Use the below json data - copy below json data and paste it into 'Request body' field
+   d. Click Execute Button
+   e. Check the 'Response Body'
+   f. For more details also check the output at the terminal
+   g. Two new files get generated - processed.json and stored-data-base.xml
+      where processed.json is an temporary file and
+      stored-data-base.xml is the XML database file which contains the actual data
 6. other GET apis can be run directly to see the output
 
 JSON Data for POST /run_flow api
